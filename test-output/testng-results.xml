@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T16:30:21 IST" name="Suite" finished-at="2023-05-22T16:30:35 IST" duration-ms="14060">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T16:30:21 IST" name="Test" finished-at="2023-05-22T16:30:22 IST" duration-ms="1621">
+      <class name="ExcelData">
+        <test-method signature="excelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelData@20ccf40b]" started-at="2023-05-22T16:30:22 IST" name="excelDataTest" data-provider="getDataExcel" finished-at="2023-05-22T16:30:22 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ritik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDataTest -->
+        <test-method signature="excelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelData@20ccf40b]" started-at="2023-05-22T16:30:22 IST" name="excelDataTest" data-provider="getDataExcel" finished-at="2023-05-22T16:30:22 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shruti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDataTest -->
+        <test-method signature="excelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelData@20ccf40b]" started-at="2023-05-22T16:30:22 IST" name="excelDataTest" data-provider="getDataExcel" finished-at="2023-05-22T16:30:22 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhagat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDataTest -->
+        <test-method signature="excelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelData@20ccf40b]" started-at="2023-05-22T16:30:22 IST" name="excelDataTest" data-provider="getDataExcel" finished-at="2023-05-22T16:30:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kalyani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDataTest -->
+      </class> <!-- ExcelData -->
+    </test> <!-- Test -->
+    <test started-at="2023-05-22T16:30:21 IST" name="Test2" finished-at="2023-05-22T16:30:35 IST" duration-ms="14060">
+      <class name="SeleniumGrid">
+        <test-method signature="demo()[pri:0, instance:SeleniumGrid@273e7444]" started-at="2023-05-22T16:30:21 IST" name="demo" finished-at="2023-05-22T16:30:26 IST" duration-ms="5726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:SeleniumGrid@273e7444]" started-at="2023-05-22T16:30:26 IST" name="demo1" finished-at="2023-05-22T16:30:30 IST" duration-ms="3968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method signature="demo2()[pri:0, instance:SeleniumGrid@273e7444]" started-at="2023-05-22T16:30:30 IST" name="demo2" finished-at="2023-05-22T16:30:35 IST" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- SeleniumGrid -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
